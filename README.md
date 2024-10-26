@@ -1,5 +1,3 @@
-Here’s a README.md template you can use:
-
 # Chat Application
 
 ## Overview
